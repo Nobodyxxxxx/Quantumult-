@@ -386,7 +386,7 @@ function Env(t, e) { class s { constructor(t) { this.env = t } send(t, e = "GET"
  * 脚本说明：添加重写进入"万达智慧商业"小程序-"我的"界面，即可获取 Token，支持多账号，兼容 NE / Node.js 环境。
  * 环境变量：wdzhsy_token / CODESERVER_ADDRESS、CODESERVER_FUN
  * 更新时间：2024-04-17 10:52
- * 图标地址：https://raw.githubusercontent.com/leiyiyan/resource/main/icons/wdzhsy.png
+ * 图标地址：https://raw.githubusercontent.com/leiyiyan/resource/main/icons/wdzhsy.png*/
 
 ------------------ Surge 配置 ------------------
 
@@ -970,6 +970,7 @@ hostname = passport.iqiyi.com, www.52pojie.cn, tiebac.baidu.com, c.tieba.baidu.c
 
 # NGA玩家社区Cookie
 ^https?:\/\/ngabbs.com\/nuke.php$ url script-request-body https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/Task/nga.js
+
 /**************************************
 脚本名称：阿里云盘任务 感谢zqzess、lowking、leiyiyan、mounuo提供的巨大帮助
 脚本作者：@Sliverkiss
@@ -992,7 +993,7 @@ hostname = passport.iqiyi.com, www.52pojie.cn, tiebac.baidu.com, c.tieba.baidu.c
 2.打开阿里云盘，若提示获取ck成功，则可以使用该脚本
 3.获取成功后，关闭获取ck脚本，避免产生不必要的mitm
 
-QuantumultX配置如下：
+QuantumultX配置如下：*/
 
 [task_local]
 0 7,11,17 * * * https://gist.githubusercontent.com/Sliverkiss/33800a98dcd029ba09f8b6fc6f0f5162/raw/aliyun.js, tag=阿里云签到, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/AliYunDrive.png, enabled=true
@@ -1003,7 +1004,7 @@ QuantumultX配置如下：
 [MITM]
 hostname = auth.alipan.com,auth.aliyundrive.com
 
-⚠️免责声明
+/*⚠️免责声明
 ------------------------------------------
 1、此脚本仅用于学习研究，不保证其合法性、准确性、有效性，请根据情况自行判断，本人对此不承担任何保证责任。
 2、由于此脚本仅用于学习研究，您必须在下载后 24 小时内将所有内容从您的计算机或手机或任何存储设备中完全删除，若违反规定引起任何事件本人对此均不负责。
