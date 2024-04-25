@@ -1,7 +1,7 @@
 # Quantumult-Get cookie
 获取各app及微信小程序的cookie，搭配task_local使用
 本仓库只是收集和整理各位大佬写的脚本，仅负责整理链接订阅，
-https://gist.githubusercontent.com/Nobodyxxxxx/5865eca967104cf5bed32cc73f48005d/raw/c29351aada56756467d8409cc9b5d5844a2190a3/Get-cookie
+(https://raw.githubusercontent.com/Nobodyxxxxx/Quantumult-own-use/main/Get-cookie.js)
 免责声明
 项目内所涉及脚本、LOGO 仅为资源共享、学习参考之目的，不保证其合法性、正当性、准确性；切勿使用项目做任何商业用途或牟利；
 遵循避风港原则，若有图片和内容侵权，请在 Issues 告知，核实后删除，其版权均归原作者及其网站所有；
